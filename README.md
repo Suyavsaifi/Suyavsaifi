@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suyavsaifi
-- 👀 I’m interested in Developments
-- 🌱 I’m currently learning PowerShell Scripting
+- 👀 Working as a developper in Python and SQL
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me muhdshoaibsaifi@gmail.com
 
